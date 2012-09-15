@@ -1,3 +1,4 @@
+/* Upld.js by @jzn99 */
 var Upld = function (path) {
 	window.upld = {};
 	window.upld.path = path;

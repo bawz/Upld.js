@@ -1,5 +1,5 @@
 <?
-
+/* Upld.js by @jzn99 */
 if (!empty($_FILES['files'])) {
 	$uploaded = array();
 	$saveto = getallheaders();
