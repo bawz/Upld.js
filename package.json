@@ -1,0 +1,10 @@
+{
+	"author" : "Jason Silberman",
+	"name" : "Upld.js",
+	"description" : "A simple javascript multiple file upload plugin",
+	"version" : "1.0.0",
+	"repository" : {
+		"type" : "git",
+		"url" : "https://github.com/Jzn99/Upld.js.git"
+	}
+}
