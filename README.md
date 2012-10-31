@@ -1,6 +1,5 @@
 #Upld.js
 ###A simple javascript multiple file upload plugin
-[The Docs](http://work.jzn99.me/upld.js)
 
 Upld.js is very simple to use to use. Just simply download two files, the upld.js file of your choice and the upld.php file. Now just make sure to have those two files in the same directory. Then include the ```upld.js``` file.
 
