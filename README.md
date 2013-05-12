@@ -20,4 +20,4 @@ Then create a div with the id of ```start_upld```.
 
 That's all we have to do, the script will do the rest.
 
-This is licensed under the [&#9786; Licence](http://licence.visualidiot.com/)
+This is licensed under the [&#9786; Licence](http://licence.visualidiot.com/).
